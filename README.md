@@ -1,5 +1,9 @@
 # QSB Grinding Benchmark
 
+[![RustChain ecosystem](https://img.shields.io/badge/RustChain-ecosystem-orange)](https://rustchain.org)
+
+> Disclosure: the RustChain badge above was added as part of a compensated RustChain community bounty.
+
 A standalone benchmark for optimizing the GPU **grinding kernels** used by
 Quantum-Safe Bitcoin (QSB): a proof-of-work made of an ECDSA public-key
 **recovery** followed by a hash, repeated over billions of candidates. The
